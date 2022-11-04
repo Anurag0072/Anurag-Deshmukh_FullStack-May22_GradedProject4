@@ -1,15 +1,20 @@
 # Anurag-Deshmukh_FullStack-May22_GradedProject4
-ScreenShots are provided 
+.ScreenShots are provided 
 
-video link: https://drive.google.com/drive/folders/1wN3P6P6pK0CFSiPwnyfjd6XaHrfigRzq?usp=sharing
+.in Security part:
+                 .kiran is user
+                 .vinay is admin
+                 .both uses same password = "welcome"
 
-You are required to create a Employee Management Rest Api based Web application, where you will be developing CRUD(Create,Read,Update and Delete) functionality along with Sorting and some concepts of security.
+.video link: https://drive.google.com/drive/folders/1wN3P6P6pK0CFSiPwnyfjd6XaHrfigRzq?usp=sharing
 
-Your Rest Api should be secure.And should have different endpoints for different operations-
+.You are required to create a Employee Management Rest Api based Web application, where you will be developing CRUD(Create,Read,Update and Delete) functionality along with Sorting and some concepts of security.
+
+.Your Rest Api should be secure.And should have different endpoints for different operations-
 
 1.Your application should be able to add roles in the database dynamically in the db.
 
-Where name specifies a role which can be assigned to a user that will be used for authentication purposes while interacting with the api.
+.Where name specifies a role which can be assigned to a user that will be used for authentication purposes while interacting with the api.
 
 2. Your application should be able to add Users in the db which can be used for authentication purposes.
 
