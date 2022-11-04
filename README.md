@@ -2,9 +2,9 @@
 .ScreenShots are provided 
 
 .in Security part:
-                 .kiran is user
-                 .vinay is admin
-                 .both uses same password = "welcome"
+ kiran is user,
+ vinay is admin,
+ both uses same password = "welcome"
 
 .video link: https://drive.google.com/drive/folders/1wN3P6P6pK0CFSiPwnyfjd6XaHrfigRzq?usp=sharing
 
