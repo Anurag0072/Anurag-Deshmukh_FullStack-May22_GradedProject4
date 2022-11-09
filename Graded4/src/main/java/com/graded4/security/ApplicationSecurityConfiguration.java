@@ -38,6 +38,8 @@ public class ApplicationSecurityConfiguration extends WebSecurityConfigurerAdapt
 		   .hasRole("ADMIN")
 		   .antMatchers(HttpMethod.POST,"/employees*","/employees/**")
 		   .hasRole("ADMIN")
+		   .antMatchers(HttpMethod.DELETE,"/employees*","/employees/**")
+		   .hasRole("ADMIN")
 		   .anyRequest().authenticated()
 		   .and()
 		   .httpBasic();
